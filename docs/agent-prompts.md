@@ -1,4 +1,7 @@
-## 2026/01/22
+## 2026/01/22  Step2
+Please help me modify the UI to add a file upload zone above the text input box, supporting the upload of PDFs, images, and text files. Also, please modify the logic in App.tsx so that the system can read file content and display it in the input box, or directly send the file content to Gemini for analysis.
+
+## 2026/01/22  Step1
 System Prompt:
 
 You are a top-tier "Educational Content Conversion Expert." Your task is to read long teaching materials (which may be PDFs or video scripts) provided by users and break them down into:
